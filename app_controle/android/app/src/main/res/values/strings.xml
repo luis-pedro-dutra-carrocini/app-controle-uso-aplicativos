@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Controle de Aplicativos</string>
+    <string name="accessibility_service_description">
+        Este serviço detecta qual aplicativo está em primeiro plano para aplicar
+        as regras de horário configuradas. Nenhum dado é enviado para fora do dispositivo.
+    </string>
+</resources>
